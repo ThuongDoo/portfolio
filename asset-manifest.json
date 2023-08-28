@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ThuongDoo.github.io/portfolio/static/css/main.f1f03e33.css",
+    "main.js": "/ThuongDoo.github.io/portfolio/static/js/main.82160f88.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ThuongDoo.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/boxicons.svg": "/ThuongDoo.github.io/portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/ThuongDoo.github.io/portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/ThuongDoo.github.io/portfolio/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/ThuongDoo.github.io/portfolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/home.jpg": "/ThuongDoo.github.io/portfolio/static/media/home.71c96c2d110b61ded673.jpg",
+    "static/media/about.jpg": "/ThuongDoo.github.io/portfolio/static/media/about.a0336a050fb55a583a16.jpg",
+    "static/media/boxicons.woff2": "/ThuongDoo.github.io/portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/slick.svg": "/ThuongDoo.github.io/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ThuongDoo.github.io/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ThuongDoo.github.io/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ThuongDoo.github.io/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ThuongDoo.github.io/portfolio/index.html",
+    "main.f1f03e33.css.map": "/ThuongDoo.github.io/portfolio/static/css/main.f1f03e33.css.map",
+    "main.82160f88.js.map": "/ThuongDoo.github.io/portfolio/static/js/main.82160f88.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ThuongDoo.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1f03e33.css",
+    "static/js/main.82160f88.js"
+  ]
+}
