@@ -1,0 +1,55 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 10rem 9% 2rem;
+  /* justify-content: center; */
+  align-items: center;
+  gap: 2rem;
+  background: var(--second-bg-color);
+  padding-bottom: 6rem;
+  
+}
+
+.emailForm {
+  /* height: 500px; */
+  /* background-color: red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: center; */
+  flex: 1;
+}
+
+.emailForm > div {
+  display: flex;
+  justify-content: space-between;
+  /* width: 100%; */
+}
+
+.emailForm > div >textarea {
+  border: 2px solid var(--main-color);
+  border-radius: 10px;
+  width: 100%;
+  height: 15rem;
+  padding: 1rem;
+}
+
+.inputField {
+  width: 45%;
+  height: 4rem;
+  border: 2px solid var(--main-color);
+  border-radius: 10px;
+  background-color: transparent;
+  color: white;
+  padding: 1rem;
+}
+
+.inputField::placeholder {
+  color: white;
+}
+
+.contact-btn {
+  width: fit-content;
+  margin: 0 auto;
+}

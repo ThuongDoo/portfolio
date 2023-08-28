@@ -1,0 +1,13 @@
+.projects {
+  background: var(--bg-color);
+  min-height: 100vh;
+  padding: 10rem 9% 2rem;
+  padding-bottom: 6rem;
+
+}
+
+.projects-slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

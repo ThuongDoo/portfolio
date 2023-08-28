@@ -1,0 +1,15 @@
+.experience-card i {
+  color: var(--main-color);
+  font-size: 2rem;
+}
+
+.experience-card h3 {
+  color: var(--main-color);
+  font-size: 2rem;
+}
+
+.experience-card {
+  border: 1px solid var(--main-color);
+  border-radius: 1.5rem;
+  padding: 1rem;
+}

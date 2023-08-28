@@ -1,0 +1,48 @@
+.projectcard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* align-items: center; */
+  border: 2px solid var(--main-color);
+  padding: 3rem;
+  border-radius: 2rem;
+  width: 500px;
+  gap: 3rem;
+  background: var(--bg-color);
+  /* background-color: white; */
+  min-height: 300px;
+  margin: 25px;
+  color: white;
+}
+
+.projectcard-title {
+
+}
+
+.projectcard-container {
+  display: flex;
+  gap: 20px;
+}
+
+.projectcard-container img {
+  width: 300px;
+  height: 200px;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* height: 100%; */
+
+}
+
+.description div {
+  letter-spacing: .1rem;
+  flex: 0.5;
+}
+
+.description-label {
+  color: var(--main-color);
+}
+

@@ -1,0 +1,31 @@
+.education {
+  /* position: relative; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: auto;
+  padding: 10rem 9% 2rem;
+  padding-bottom: 6rem;
+}
+
+.education-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.education-column {
+  border-left: 1px solid var(--main-color);
+}
+
+.education-column .title {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+.education-box {
+  margin: 2.5rem;
+}
