@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 
 function ProjectCard({title, imgUrl, description, technologies}) {
   return (
-    <Link to={`/project/${title}`}>
+    // <Link to={`/project/${title}`}>
       <div className='projectcard'>
         <h2 className='projectcard-title'>{title}</h2>
         <div className="projectcard-container">
@@ -24,7 +24,7 @@ function ProjectCard({title, imgUrl, description, technologies}) {
         </div>
         
       </div>
-    </Link>
+    // </Link>
     
 
   )
