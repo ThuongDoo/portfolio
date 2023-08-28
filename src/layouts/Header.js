@@ -1,9 +1,7 @@
 import React from 'react'
-import './Header.css'
 function Header() {
   return (
     <section>
-
       <div className='header'>
         <a href="#logo" className='logo'>ThuongDo.</a>
         <nav className='navbar'>

@@ -1,20 +1,20 @@
 export const projects = [
   {
     title: 'Portfolio',
-    imgUrl: "https://github.com/ThuongDoo/images/blob/main/1.jpg?raw=true",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam illo? Consectetur omnis fugiat magni minima quaerat enim facilis iure repellendus ipsam ea tenetur nobis, eum natus, possimus, unde excepturi.",
-    technologies: ["React Navigation", "TailwindCSS", "Expo", "Redux", "Sanity"],
+    imgUrl: "https://github.com/ThuongDoo/images/blob/main/portfolioImg.jpg?raw=true",
+    description: "Trang web portfolio trình bày các dự án mà tôi đã thực hiện",
+    technologies: ["HTML", "CSS", "ReactJS"],
   },
   {
     title: 'Game Store',
     imgUrl: "https://play-lh.googleusercontent.com/AQtSF5Sl18yp3mQ2tcbOrBLekb7cyP3kyg5BB1uUuc55zfcnbkCDLHFTBwZfYiu1aDI",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam illo? Consectetur omnis fugiat magni minima quaerat enim facilis iure repellendus ipsam ea tenetur nobis, eum natus, possimus, unde excepturi.",
-    technologies: ["React Navigation", "TailwindCSS", "Expo", "Redux", "Sanity"],
+    description: "Trang web bán game giúp người dùng có thể tải nhiều tựa game đa dạng từ nhiều thể loại",
+    technologies: ["HTML", "CSS", "Javascript", "Redux", "Sanity", "PHP"],
   },
   {
     title: 'Delivery App',
     imgUrl: "https://play-lh.googleusercontent.com/AQtSF5Sl18yp3mQ2tcbOrBLekb7cyP3kyg5BB1uUuc55zfcnbkCDLHFTBwZfYiu1aDI",
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, ullam illo? Consectetur omnis fugiat magni minima quaerat enim facilis iure repellendus ipsam ea tenetur nobis, eum natus, possimus, unde excepturi.",
+    description: "Delivery app là một ứng dụng di động giao thức ăn nhanh",
     technologies: ["React Navigation", "TailwindCSS", "Expo", "Redux", "Sanity"],
   },
 ]

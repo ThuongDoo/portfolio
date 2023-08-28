@@ -1,10 +1,9 @@
 import React from 'react'
-import './Projects.css'
-import ProjectCard from '../components/ProjectCard'
+import './styles.css'
 import SliderComponent from '../components/SliderComponent'
 function Projects() {
   return (
-    <div className='projects' id='projects'>
+    <div className='projects section' id='projects'>
       <h2 className="heading">My <span>Projects</span></h2>
       <div className="projects-slider">
         <SliderComponent/>

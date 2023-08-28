@@ -1,5 +1,5 @@
 import React from 'react'
-import './Contact.css'
+import './styles.css'
 import { useForm } from 'react-hook-form'
 import axios from 'axios';
 function Contact() {
@@ -15,7 +15,7 @@ function Contact() {
     }
   };
   return (
-    <div className="contact" id='contact'>
+    <div className="contact section" id='contact'>
       <h2 className='heading'>Contact <span>Me</span></h2>
       <form onSubmit={handleSubmit(onSubmit)} className='emailForm'>
         <div>
