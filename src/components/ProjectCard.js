@@ -1,9 +1,10 @@
 import React from 'react'
 import './ProjectCard.css'
 
-function ProjectCard({title, imgUrl, description, technologies}) {
+function ProjectCard({title, imgUrl, description, technologies, link}) {
   return (
     // <Link to={`/project/${title}`}>
+    <a href={link} target='_blank' rel='noreferrer'>
       <div className='projectcard'>
         <h2 className='projectcard-title'>{title}</h2>
         <div className="projectcard-container">
@@ -23,6 +24,8 @@ function ProjectCard({title, imgUrl, description, technologies}) {
         </div>
         
       </div>
+    </a>
+      
     // </Link>
     
 

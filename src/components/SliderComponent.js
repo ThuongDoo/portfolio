@@ -23,6 +23,7 @@ export default function SliderComponent() {
             imgUrl={project.imgUrl}
             description={project.description} 
             technologies={project.technologies}
+            link={project.link}
           />
         </div>
       ))}
