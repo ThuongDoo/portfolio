@@ -13,7 +13,7 @@ function Home() {
         <h1>Hello,</h1>
         <h1>I'm <span>Do Manh Thuong</span></h1>
         <div className="text-animate">
-          <h3>Mobile Developer</h3>
+          <h3>Web Developer</h3>
         </div>
         {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum reprehenderit veniam itaque praesentium asperiores. Deleniti, labore consequuntur nobis odit ipsa adipisci, omnis fuga ut saepe incidunt officiis ex quidem. Deserunt!</p> */}
         <div className="btn-box">
