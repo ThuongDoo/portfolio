@@ -22,8 +22,8 @@ export const projects = [
   },
   {
     title: 'Snake Game',
-    imgUrl: "",
-    description: "",
+    imgUrl: "https://github.com/ThuongDoo/images/blob/main/snakegame.jpg?raw=true",
+    description: "webgame đơn giản, điều khiển con rắn ăn những trái táo",
     technologies: ["HTML", "CSS", "Javascript"],
     link: "https://github.com/ThuongDoo/snake-game",
   }
