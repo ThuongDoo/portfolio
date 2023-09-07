@@ -20,4 +20,11 @@ export const projects = [
     technologies: ["React Navigation", "TailwindCSS", "Expo", "Redux", "Sanity"],
     link: "https://drive.google.com/drive/folders/1V2AyrECxc47QSzCG8485ezpwEdg0lx6m?usp=sharing"
   },
+  {
+    title: 'Snake Game',
+    imgUrl: "",
+    description: "",
+    technologies: ["HTML", "CSS", "Javascript"],
+    link: "https://github.com/ThuongDoo/snake-game",
+  }
 ]
